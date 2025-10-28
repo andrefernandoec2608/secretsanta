@@ -56,6 +56,8 @@ streamlit run secret_santa_app.py
 
 Streamlit will automatically open your default web browser showing the app interface. 🎅✨
 
+**Default URL:** `http://localhost:8501/`
+
 ---
 
 ## ⚠️ Important Note
